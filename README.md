@@ -38,5 +38,5 @@ Monthly Trends & Manufacturing Price Analysis
 **✅ Conclusion**     
 These Power BI dashboards showcase comprehensive financial and sales analysis in an intuitive and interactive manner. They empower decision-makers to track key metrics, uncover trends, and identify improvement areas at a glance. This project demonstrates proficiency in dashboard design, KPI reporting, and delivering actionable business insights using Power BI.
 
-![Assignments](Power_BI__1.png)     
-![Assignments](Power_BI_d_2.png)
+![Power_BI__1](Power_BI__1.png)     
+![Power_BI__2](Power_BI_d_2.png)
